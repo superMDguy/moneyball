@@ -2,6 +2,7 @@
 
 - Age of manager
 - Number of rookies
+- Day/Night
 - Morale score???
 
 ## Batting
